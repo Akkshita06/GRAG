@@ -1,0 +1,4 @@
+pyTigerGraph>=1.0.0
+anthropic>=0.25.0
+streamlit>=1.33.0
+pandas>=2.0.0
