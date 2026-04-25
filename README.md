@@ -1,6 +1,6 @@
 # RepoGraph — GitHub Ecosystem Intelligence with GraphRAG
 
-> TigerGraph GraphRAG Inference Hackathon submission
+
 
 <img width="1440" height="840" alt="image" src="https://github.com/user-attachments/assets/0ab3426f-6402-4c62-931a-edeb8c8308a7" />
 
@@ -79,7 +79,6 @@ The system is tested on questions that require 2-4 graph hops to answer correctl
 GraphRAG uniquely provides **explainable reasoning paths** — the exact graph
 traversal used to generate each answer — which the baseline LLM cannot produce.
 
-## Team
-Built for the TigerGraph GraphRAG Inference Hackathon 2025.
+
 
 
